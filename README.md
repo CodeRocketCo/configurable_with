@@ -1,5 +1,7 @@
 # Configurable With
 
+[![Gem Version](https://badge.fury.io/rb/configurable_with.svg)](https://badge.fury.io/rb/configurable_with)
+
 A simple module making any class configurable.
 
 ## Instalation
